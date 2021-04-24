@@ -3,7 +3,7 @@ title: Home
 sections:
   - section_id: hl
     type: section_hero
-    title: This is a hero headline.
+    title: hgfh
     subtitle: '### This is a super-cool hero subhead.'
     image: images/avatar.png
     image_alt: Author avatar
