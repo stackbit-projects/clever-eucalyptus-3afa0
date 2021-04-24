@@ -1,7 +1,7 @@
 ---
 title: Home
 sections:
-  - section_id: hero
+  - section_id: hl
     type: section_hero
     title: This is a hero headline.
     subtitle: '### This is a super-cool hero subhead.'
